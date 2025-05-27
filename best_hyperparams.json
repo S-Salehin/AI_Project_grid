@@ -1,0 +1,62 @@
+{
+    "taskA": {
+        "MLP": {
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "units": 64
+        },
+        "CNN": {
+            "learning_rate": 0.001,
+            "batch_size": 16,
+            "units": 64
+        }
+    },
+    "taskB": {
+        "MLP": {
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "units": 64
+        },
+        "CNN": {
+            "learning_rate": 0.001,
+            "batch_size": 16,
+            "units": 64
+        }
+    },
+    "taskC": {
+        "MLP": {
+            "learning_rate": 0.001,
+            "batch_size": 16,
+            "units": 64
+        },
+        "CNN": {
+            "learning_rate": 0.001,
+            "batch_size": 16,
+            "units": 128
+        }
+    },
+    "taskD": {
+        "MLP": {
+            "learning_rate": 0.001,
+            "batch_size": 16,
+            "units": 64
+        },
+        "CNN": {
+            "learning_rate": 0.001,
+            "batch_size": 16,
+            "units": 128
+        }
+    },
+    "taskE": {
+        "MLP": {
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "units": 64
+        },
+        "CNN": {
+            "learning_rate": 0.001,
+            "batch_size": 16,
+            "units": 128
+        }
+    }
+}
